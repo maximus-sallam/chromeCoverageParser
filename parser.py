@@ -1,9 +1,7 @@
-# Python 3.7
 import click
 import json
 import urllib.parse
 import os
-import errno
 
 
 @click.command()
